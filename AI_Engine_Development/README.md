@@ -26,6 +26,10 @@ The methodology for developing optimized accelerated applications is comprised o
  <td align="center"><a href="./Design_Tutorials/02-super_sampling_rate_fir/README.md">Super Sampling Rate FIR Filters</a></td>
  <td>The purpose of this tutorial is to provide a methodology to enable you to make appropriate choices depending on the filter characteristics, and to provide examples on how to implement Super Sampling Rate (SSR) FIR Filters on a Versal ACAP AI Engine processor array.</td>
  </tr>
+  <tr>
+ <td align="center"><a href="./Design_Tutorials/03-beamforming/README.md">Wireless Beamforming</a></td>
+ <td>This tutorial provides an example beamforming implementation on the Versal AI Engines.</td>
+ </tr>
  </table>
 
 
